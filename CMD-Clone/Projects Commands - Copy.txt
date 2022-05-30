@@ -1,0 +1,12 @@
+list         {For Listing All the dirtories and Files in a Folder}
+cd [Directory Name]         {To Open a Particular Directory}
+cd..                   {For Going back}
+search [Directory Name or File Nane]        {For searching a particular Data}
+open [file name]                         {For reading Data from File}
+D:
+C:
+F:
+Exit
+mkdir [Directory Name]
+delete [file or directory]
+cls     [Clear Screen]
